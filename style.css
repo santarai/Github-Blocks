@@ -1,0 +1,37 @@
+* {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 860px;
+    margin: 0 auto;
+    background-color: green;
+    padding: 1px; 
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 22px; 
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+    margin: 22px; 
+    padding: 22px; 
+}
+
+.orange {
+    background-color: orange;
+    justify-content: space-evenly;
+}
+
+.grey {
+    background-color: grey;
+}
